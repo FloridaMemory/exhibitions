@@ -1,26 +1,30 @@
-Exhibitions
-===========
+# Welcome to Omeka
 
-DPLA Exhibitions hosted by Omeka
+&copy; 2008-2012 [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/)
 
-Documentation
--------------
+This program is free software: you can redistribute it and/or modify it under 
+the terms of the GNU General Public License as published by the Free Software 
+Foundation, either version 3 of the License, or (at your option) any later
+version.
 
-* [DPLA Digital Exhibition Creation Guidelines](https://docs.google.com/document/d/1caBYKDdQCpFCildS5XquNML5YzaugSL7Jf3CdBIIqOA/edit)
-* [Creating Exhibitions with the DPLA Template](https://docs.google.com/document/d/1ktQuLJzMkQX_e5EM2cUm88W614GZ4UdRhuu3_cXpoXU/edit)
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-License
---------
-This application is released under an AGPLv3 license.
+You should have received a copy of the GNU General Public License along with
+this program. If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
 
-Copyright President and Fellows of Harvard College, 2013
+Omeka includes:
 
-Branching
----------
+* [Zend Framework](http://framework.zend.com)
+* [getID3](http://getid3.sourceforge.net)
+* [jQuery](http://jquery.com)
+* [jQuery UI](http://jqueryui.com)
+* [TinyMCE](http://tinymce.moxiecode.com)
+* [Silk Icons](http://www.famfamfam.com/lab/icons/silk/)
 
-We use the  branching rule:
-* develop
-* testing
-* master
+Use and modifications of these libraries must comply with their respective 
+licenses.
 
-We do development in the "develop" branch. When development is finished for each release, we merge the "develop" branch into "testing" branch. Production ready code is finally merged into the "master" branch.
+Release notes for Omeka are available at
+[http://omeka.org/codex/Release_Notes](http://omeka.org/codex/Release_Notes).
